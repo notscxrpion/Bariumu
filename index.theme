@@ -1,0 +1,6 @@
+[theme]
+name=Barium
+description=Weebkit2-Barium
+engine=lightdm-webkit2-greeter
+url=index.html
+session=awesome
