@@ -40,4 +40,4 @@ This project is under the GNU General Public License v3.0. Check [LICENSE](https
 
 ## Sukurīnshotto ##
 ![](https://cdn.discordapp.com/attachments/769660696219746355/775482095132475402/unknown.png)
-![](https://imgur.com/a/gF0nr0W)
+![](https://i.imgur.com/BeICqUZ.gif)
