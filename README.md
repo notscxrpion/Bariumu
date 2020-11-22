@@ -39,5 +39,5 @@ This project is under the GNU General Public License v3.0. Check [LICENSE](https
 <br>
 
 ## Sukurīnshotto ##
-![](https://cdn.discordapp.com/attachments/769660696219746355/775482095132475402/unknown.png)
+![](https://i.imgur.com/YwwAKuL.png)
 ![](https://i.imgur.com/A98xKAA.gif)
