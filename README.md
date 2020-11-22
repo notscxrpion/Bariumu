@@ -43,5 +43,5 @@ This project is under the GNU General Public License v3.0. Check [LICENSE](https
 ![](https://i.imgur.com/oj5wzDe.gif%20=1026x769)
 
 <p align="left">
-  <img src="https://i.imgur.com/oj5wzDe" alt="test gif support" width="1026" height="769">
+  <img src="https://i.imgur.com/oj5wzDe.gif" alt="test gif support" width="1026" height="769">
 </p>
