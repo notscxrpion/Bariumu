@@ -10,7 +10,7 @@
 - Support MultiAccount (Selection of users).
 - ~~Support MultiSessions (Selection of sessions)~~ _Kami no ishi(God willing)._
 - Shutdown, Restart, Hibernate buttons (Inside a list).
-- Support animated wallpaper
+- Support animated wallpaper.
 
 <br>
 <br>
